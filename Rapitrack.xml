@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Rapitrack>
+                
+    
+    
+    <Cliente>
+                                        
+        
+        
+        
+        <Nombre>alex</Nombre>
+                                        
+        
+        
+        
+        <Telefono>3424234</Telefono>
+                                        
+        
+        
+        
+        <Correo>alex@gmail.com</Correo>
+                                        
+        
+        
+        
+        <Destino>pedril</Destino>
+                                        
+        
+        
+        
+        <iPhone15Pro>23</iPhone15Pro>
+                                        
+        
+        
+        
+        <Samsung2Pro>342</Samsung2Pro>
+                                        
+        
+        
+        
+        <NikeTShirt>234</NikeTShirt>
+                                        
+        
+        
+        
+        <MacBookPro14>234</MacBookPro14>
+                                        
+        
+        
+        
+        <AdidasUltraboost>234</AdidasUltraboost>
+                                    
+    
+    
+    
+    </Cliente>
+                
+
+    
+    
+    <Cliente>
+                        
+        
+        <Nombre>pepe</Nombre>
+                        
+        
+        <Telefono>3454545</Telefono>
+                        
+        
+        <Correo>pepevilluela@gmail.com</Correo>
+                        
+        
+        <Destino>honduras</Destino>
+                        
+        
+        <iPhone15Pro>12</iPhone15Pro>
+                        
+        
+        <Samsung2Pro>23</Samsung2Pro>
+                        
+        
+        <MacBookPro14>2</MacBookPro14>
+                        
+        
+        <AdidasUltraboost>55</AdidasUltraboost>
+                    
+    
+    </Cliente>
+        
+    
+    <Cliente>
+                
+        <Nombre>pepa</Nombre>
+                
+        <Telefono>324234</Telefono>
+                
+        <Correo>pepa@gmail.com</Correo>
+                
+        <Destino>honduras</Destino>
+                
+        <iPhone15Pro>12</iPhone15Pro>
+                
+        <Samsung2Pro>12</Samsung2Pro>
+                
+        <MacBookPro14>12</MacBookPro14>
+                
+        <AdidasUltraboost>12</AdidasUltraboost>
+            
+    </Cliente>
+    
+
+</Rapitrack>
